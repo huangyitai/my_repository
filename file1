@@ -15,9 +15,4 @@ file1 for test
 
 2018/8/5 11:40 test: --no-ff git merge
 
-<<<<<<< HEAD
-2018/8/5 15:39 test: test rebase
-
-=======
-2018/8/5 15:45 test: for rebase, edit in branch dev
->>>>>>> b3e5d96e87cf3c1d7568b924609b62584082ed52
+2018/8/5 15:39 test: test rebase in branch master
