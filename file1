@@ -6,17 +6,12 @@ file1 for test
 2018/8/5 10:53 finish undo modify test, mainly according to git's tips
 
 2018/8/5 11:05 test branch
-<<<<<<< HEAD
 2018/8/5 11:26 test solve confliction in branch master
-=======
 2018/8/5 11:12 test solve confiction
->>>>>>> feature1
 2018/8/5 11:32 manually solve the confliction
 
 2018/8/5 11:40 test: --no-ff git merge
 
-<<<<<<< HEAD
 2018/8/5 15:45 test: for rebase, edit in branch dev
-=======
 2018/8/5 15:39 test: test rebase in branch master
->>>>>>> test rebase, edited in branch master
+2018/8/5 15:39 test: test rebase in branch master
